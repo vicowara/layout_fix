@@ -1,0 +1,11 @@
+--- /usr/share/ibus/component/mozc.xml	2016-12-02 21:32:56.569435378 +0900
++++ mozc.xml	2016-12-09 20:30:03.160200306 +0900
+@@ -15,7 +15,7 @@
+   <language>ja</language>
+   <icon>/usr/share/ibus-mozc/product_icon.png</icon>
+   <setup>/usr/lib64/mozc/mozc_tool --mode=config_dialog</setup>
+-  <layout>default</layout>
++  <layout>jp</layout>
+   <name>mozc-jp</name>
+   <longname>Mozc</longname>
+ </engine>
